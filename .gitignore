@@ -1,0 +1,5 @@
+.env
+.idea/
+registrationInformation.xlsx
+util.js
+node_modules/
