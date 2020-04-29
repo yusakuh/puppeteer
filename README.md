@@ -11,7 +11,7 @@
 URL=https://XXXXXXXXXXXX.com
 ```
 
-# EXCELファイルについて
+## EXCELファイルについて
 
 - puppeteer_register配下にregistrationInformation.xlsxを作成する
 - シート名を「memberlist」とし、以下のような情報を記載する
