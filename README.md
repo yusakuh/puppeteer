@@ -22,4 +22,6 @@ URL=https://XXXXXXXXXXXX.com
 | 2  | B    | 333333         | 444444   | 0    |
 | 3  | C    | 555555         | 666666   | 1    |
 | 4  | D    | 777777         | 888888   | 0    |
+
+
 ※Usedは1がtrue, 0がfalseで判定される。index.jsではtrueのものに対してのみ処理が行われる
